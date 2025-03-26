@@ -25,11 +25,14 @@ This project leverages **Machine Learning** to analyze various factors influenci
 1. Clone the repo 🏴‍☠️  
    ```bash
      git clone https://github.com/marie4maria/Under-the-Surface-Insights-into-Depression
+
 2. Install the dependencies 📦
-pip install -r requirements.txt
+   ```bash
+     pip install -r requirements.txt
 
 3. Fire up Jupyter Notebook 🚀
-jupyter notebook
+   ```bash
+     jupyter notebook
 
 4. Run the Notebook and watch the magic happen ✨  
 
