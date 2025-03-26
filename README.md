@@ -1,4 +1,4 @@
-# 🧠 Analysis of Various Factors Affecting Depression using Machine Learning 😵‍💫📊  
+# 🧠 Analysis of Various Factors Affecting Depression using Machine Learning 📊  
 
 > “Happiness can be found even in the darkest of times, if one only remembers to turn on the light.” – Albus Dumbledore ✨  
 
